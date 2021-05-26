@@ -86,3 +86,5 @@ PFB a step by step list of commands that informs how to install an instance of t
 You will now be able to fill in the required details on the browser form that is opened by the above React commands. Once the required details are filled in and your GMAIL account is authenticated successfully, PrivacyBot will automatically send data deletion requests to the chosen list of data brokers! Yay!
 
 #### 6. Remove access to PrivacyBot from your Gmail account
+
+test
